@@ -1,3 +1,4 @@
 # Main
-message = "Vi lär oss git tillsammans"
+message = "Vi lär överleva gits kaoset tillsammans"
+message = "Vi lär oss lite git tillsammans"
 print(message)
